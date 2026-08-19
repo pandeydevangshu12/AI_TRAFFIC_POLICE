@@ -1,0 +1,28 @@
+# Dataset
+ForMyIdea.md
+
+train/
+valid/
+test/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# ML outputs
+outputs/
+runs/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
